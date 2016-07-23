@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mageshkhanna:meteor-username-blacklist',
-  version: '0.0.1',
+  version: '0.1.0',
   // Brief, one-line summary of the package.
   summary: 'Blacklist usernames you dont want your users to sign up with.',
   // URL to the Git repository containing the source code for this package.
