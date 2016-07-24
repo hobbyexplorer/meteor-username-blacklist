@@ -6,10 +6,11 @@ This is a meteor package to blacklist usernames you dont want your users to sign
 meteor add mageshkhanna:meteor-username-blacklist
 ```
 ## Links
-Atmosphere package hosted at: https://atmospherejs.com/mageshkhanna/meteor-username-blacklist
+- [x]  Atmosphere package hosted at: https://atmospherejs.com/mageshkhanna/meteor-username-blacklist
+
 Similar projects:
-NPM keywords only: https://www.npmjs.com/package/the-big-username-blacklist
-Bad words only: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+- [x] NPM keywords only: https://www.npmjs.com/package/the-big-username-blacklist
+- [x] Bad words only: https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
 ## Features
 - [x] Has list of keywords ex: about, blog etc.
